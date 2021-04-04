@@ -1,2 +1,2 @@
 # Titanic
-Entry level competition for Kaggle using Random forest
+Entry level competition of Kaggle using Random forest
